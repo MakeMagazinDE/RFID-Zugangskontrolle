@@ -6,7 +6,7 @@ Maker Media GmbH
 # Zugangskontrolle
 mit ESP32, RFID und E-Mail-Benachrichtigung
 
-### Kontaktlose Zugangs-Systeme sind praktisch und vielseitig ein- setzbar. Mit einem RFID-Leser, dem ESP32-Mikrocontroller und einem Relais lassen sie sich leicht in eigene Projekte einbinden. Ergänzend zum Artikel findet ihr hier die benötigten Arduino-Sketches.
+### Kontaktlose Zugangs-Systeme sind praktisch und vielseitig einsetzbar. Mit einem RFID-Leser, dem ESP32-Mikrocontroller und einem Relais lassen sie sich leicht in eigene Projekte einbinden. Ergänzend zum Artikel findet ihr hier die benötigten Arduino-Sketches.
 
 ![Picture](https://github.com/MakeMagazinDE/Mausefalle/blob/main/rfid_banner.jpg)
 
